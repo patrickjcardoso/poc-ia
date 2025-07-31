@@ -7,7 +7,7 @@ API_URL = "https://d9v1sfn4v7.execute-api.us-east-1.amazonaws.com/poc-brinquedos
 st.set_page_config(page_title="POC Brinquedos Bandeirantes", page_icon="🧩", layout="centered")
 
 # Exibe a logo do cliente (centralizado)
-st.image("logo-bandeirante.png", width=220)  # ajuste o width conforme des
+st.image("logo-bandeirante.png", width=420)  # ajuste o width conforme des
 
 # Título principal (apenas o nome)
 st.markdown("""
